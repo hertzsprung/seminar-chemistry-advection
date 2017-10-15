@@ -43,8 +43,8 @@
 
 Consider mixing ratio, X
 
-combination: X + X --(k\_2)--> X\_2
 dissociation: X\_2 --(k\_1)--> X + X
+combination: X + X --(k\_2)--> X\_2
 
 where k\_1 and k\_2 are reaction rates.
 k\_1 is a function of the solar zenith angle, z
